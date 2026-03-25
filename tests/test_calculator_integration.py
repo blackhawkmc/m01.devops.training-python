@@ -1,5 +1,6 @@
 from demo_project import calculator
 
+
 def test_integration_workflow():
     # Simulate a workflow using multiple operations
     a = 10
